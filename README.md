@@ -535,7 +535,7 @@ Get featured bloggers
 <img width="1328" height="1404" alt="localhost_8083_blogs (1)" src="https://github.com/user-attachments/assets/dc6e0ff9-a168-4a6b-9700-7e2689556595" />
 
 ### Blog Detail với Tip Section
-<img width="1328" height="7856" alt="localhost_8083_blogs (2)" src="https://github.com/user-attachments/assets/a8d97bcb-586b-4ce6-bfc8-f4d9e13aa132" />
+<img width="1328" height="10000" alt="localhost_8083_blogs (2)" src="https://github.com/user-attachments/assets/a8d97bcb-586b-4ce6-bfc8-f4d9e13aa132" />
 
 ### Wallet Section
 <img width="1328" height="2124" alt="localhost_8083_blogs (3)" src="https://github.com/user-attachments/assets/34657dde-7630-46a6-b8c6-ec2457b55ee5" />
