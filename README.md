@@ -530,19 +530,22 @@ Get featured bloggers
 ## 📸 Screenshots
 
 ### Home Page
-![Home](docs/screenshots/home.png)
+<img width="1328" height="4920" alt="localhost_8083_" src="https://github.com/user-attachments/assets/1a96d731-a553-4699-9390-95caf9dc9213" />
+<img width="1328" height="2225" alt="localhost_8083_blogs" src="https://github.com/user-attachments/assets/eea3aec6-7169-413a-bad6-6b51c8ab19fc" />
+<img width="1328" height="1404" alt="localhost_8083_blogs (1)" src="https://github.com/user-attachments/assets/dc6e0ff9-a168-4a6b-9700-7e2689556595" />
 
 ### Blog Detail với Tip Section
-![Blog Detail](docs/screenshots/blog-detail.png)
+<img width="1328" height="7856" alt="localhost_8083_blogs (2)" src="https://github.com/user-attachments/assets/a8d97bcb-586b-4ce6-bfc8-f4d9e13aa132" />
 
 ### Wallet Section
-![Wallet](docs/screenshots/wallet.png)
+<img width="1328" height="2124" alt="localhost_8083_blogs (3)" src="https://github.com/user-attachments/assets/34657dde-7630-46a6-b8c6-ec2457b55ee5" />
 
 ### Blogger Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+<img width="1355" height="2358" alt="localhost_8083_blogger_dashboard" src="https://github.com/user-attachments/assets/4532e08c-5015-4102-9251-8bc1d60c0f9a" />
 
-### Buy Tokens Modal
-![Buy Tokens](docs/screenshots/buy-tokens.png)
+### Others
+<img width="1355" height="2010" alt="localhost_8083_blogger_dashboard (1)" src="https://github.com/user-attachments/assets/3da0b5c2-0a6d-470f-8d50-4e8fb03162c1" />
+<img width="1328" height="1968" alt="localhost_8083_blogs (4)" src="https://github.com/user-attachments/assets/4bd78fe1-01e0-4da7-a326-7a61e68ab6e3" />
 
 ---
 
