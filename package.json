@@ -1,0 +1,37 @@
+{
+  "name": "crypto-tipping-system",
+  "version": "1.0.0",
+  "description": "Hệ thống tip bằng crypto cho video creators",
+  "main": "index.js",
+  "scripts": {
+    "install:client": "cd client && npm install",
+    "install:server": "cd server && npm install",
+    "install:contracts": "cd smart-contracts && npm install",
+    "install:all": "npm run install:contracts && npm run install:server && npm run install:client",
+    "dev:client": "cd client && npm run serve",
+    "dev:server": "cd server && npm run dev",
+    "dev:contracts": "cd smart-contracts && npm run compile",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start"
+  },
+  "keywords": [
+    "crypto",
+    "tipping",
+    "blockchain",
+    "video",
+    "creators",
+    "ethereum",
+    "vuejs",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@tiptap/extension-code-block": "^3.6.6",
+    "@tiptap/extension-image": "^3.6.6",
+    "@tiptap/extension-link": "^3.6.6",
+    "@tiptap/extension-placeholder": "^3.6.6",
+    "@tiptap/starter-kit": "^3.6.6",
+    "@tiptap/vue-3": "^3.6.6"
+  }
+}

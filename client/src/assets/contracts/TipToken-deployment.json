@@ -1,0 +1,9 @@
+{
+  "address": "0x616e607040e7d058D2fE90F70840306734857DF7",
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployedAt": "2025-11-04",
+  "deployer": "0x06bf881aD8FcDCc885c41c8139e510E478c96099",
+  "rpcUrl": "https://1rpc.io/sepolia",
+  "explorer": "https://sepolia.etherscan.io"
+}

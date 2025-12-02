@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Tipping System</title>
+    <meta name="description" content="Hệ thống tip bằng cryptocurrency cho video creators">
+    
+    <!-- Preconnect for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <!-- Inter font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/logo.svg">
+    <link rel="icon" type="image/png" href="/logo.svg">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://cryptotip.local/">
+    <meta property="og:title" content="Crypto Tipping System">
+    <meta property="og:description" content="Hệ thống tip bằng cryptocurrency cho video creators">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://cryptotip.local/">
+    <meta property="twitter:title" content="Crypto Tipping System">
+    <meta property="twitter:description" content="Hệ thống tip bằng cryptocurrency cho video creators">
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+    
+    <!-- Loading indicator -->
+    <style>
+      #app {
+        min-height: 100vh;
+      }
+      
+      /* Loading spinner styles */
+      .loading-spinner {
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        border: 3px solid #f3f3f3;
+        border-radius: 50%;
+        border-top-color: #6366f1;
+        animation: spin 1s ease-in-out infinite;
+      }
+      
+      @keyframes spin {
+        to { transform: rotate(360deg); }
+      }
+      
+      /* Hide loading when Vue is ready */
+      [v-cloak] {
+        display: none !important;
+      }
+    </style>
+  </body>
+</html>
